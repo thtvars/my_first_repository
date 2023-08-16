@@ -1,0 +1,16 @@
+body{
+    background:goldenrod;
+
+}
+
+p{
+    color:goldenrod;
+}
+
+li{
+    color:steelblue;
+}
+
+.color-green{
+    color: green;
+}

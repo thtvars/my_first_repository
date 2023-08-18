@@ -1,0 +1,23 @@
+/* body{
+    background:goldenrod;
+} */
+
+p{ /*1 PUNTOS*/
+    color:goldenrod;
+}
+
+li{ /*1 PUNTOS*/
+    color:steelblue;
+}
+
+body .accent-color{ /*11 PUNTOS*/
+    color:rebeccapurple;
+}
+
+.accent-color{ /*10 PUNTOS*/
+    color: green;
+}
+
+#li-important { /*100 PUNTOS*/
+    color:orange;
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../OneDrive/Documentos/Visual Studio 2022/DEVF"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WS_CV"
+	}
+}
